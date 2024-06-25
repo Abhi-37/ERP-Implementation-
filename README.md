@@ -4,7 +4,6 @@
 This dashboard provides a comprehensive analysis of various ERP (Enterprise Resource Planning) systems based on multiple measures including Adaptability, Change Management, Overall Success, and Overall Satisfaction. The ERP systems compared are SAP, Microsoft Dynamics 365, Oracle, Salesforce, Workday, Zoho, Odoo, and Infor.
 
 ## Adaptability
-- **Representation:** Green bars
 - **Description:** Indicates how well each ERP system can adapt to changing business needs.
 - **Highlights:**
   - SAP shows the highest adaptability.
@@ -12,7 +11,6 @@ This dashboard provides a comprehensive analysis of various ERP (Enterprise Reso
   - Infor scores the lowest in adaptability.
 
 ## Change Management
-- **Representation:** Blue lines with circular markers
 - **Description:** Shows how effective each ERP system is in managing changes within an organization.
 - **Highlights:**
   - Odoo has the highest score in change management.
@@ -20,7 +18,6 @@ This dashboard provides a comprehensive analysis of various ERP (Enterprise Reso
   - Infor scores the lowest in change management.
 
 ## Overall Success
-- **Representation:** Navy blue bars
 - **Description:** Reflects the overall success rate of implementing and using the ERP system.
 - **Highlights:**
   - Odoo leads in overall success.
@@ -28,7 +25,6 @@ This dashboard provides a comprehensive analysis of various ERP (Enterprise Reso
   - Infor scores the lowest in overall success.
 
 ## Overall Satisfaction
-- **Representation:** Pink lines with square markers
 - **Description:** Measures the overall satisfaction level of users with each ERP system.
 - **Highlights:**
   - Odoo scores the highest in overall satisfaction.
