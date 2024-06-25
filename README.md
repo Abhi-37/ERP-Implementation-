@@ -1,5 +1,6 @@
 # ERP Success Dashboard Using IBM Cognos
 
+![Cognos Dashboard_page-0001](https://github.com/Abhi-37/ERP-Success-Analysis-using-IBM-Cognos-SPSS/assets/169159978/7beabc9f-5841-497e-a5ea-7ea76aba29e7)
 This dashboard provides a comprehensive analysis of various ERP (Enterprise Resource Planning) systems based on multiple measures including Adaptability, Change Management, Overall Success, and Overall Satisfaction. The ERP systems compared are SAP, Microsoft Dynamics 365, Oracle, Salesforce, Workday, Zoho, Odoo, and Infor.
 
 ## Adaptability
